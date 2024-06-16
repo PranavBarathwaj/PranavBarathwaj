@@ -3,7 +3,7 @@ Hi, I'm Pranav!
 
 🎯 Interests: Technology, Sports, Music, Arts, and Filming.
 
-📈 Knowledge in RStudio, Python Python (NumPy, Pandas, Tensorflow, PySpark, Plotly), Tableau, SQL, C/C++, Microsoft Office, Java.
+📈 Knowledge in RStudio, Python Python (NumPy, Pandas, Tensorflow, PySpark, Plotly), Tableau, SQL, C/C++, Microsoft Office, Java, Power BI.
 
 🌐 Collaborator and team player, eager to contribute to exciting projects.
 
