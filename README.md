@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 # 💫 About Me:
 Hi, I'm Pranav! <br><br>🤖 Tech enthusiast with a passion for exploration, always on the lookout for innovative solutions.<br><br>🎯 Interests: Technology, Sports, Music, Arts, and Filming.<br><br>📈 Knowledge in RStudio, Python Python (NumPy, Pandas, Tensorflow, PySpark, Plotly), Tableau, SQL, C/C++, Microsoft Office, Java, Power BI.<br><br>🌐 Collaborator and team player, eager to contribute to exciting projects.<br><br>📚 Constantly learning and seeking knowledge in various domains.<br><br>🎥 Storyteller at heart, with a flair for visual expression.<br><br>👥 Let's connect and create something amazing together!
 
