@@ -1,4 +1,4 @@
-![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+![MasterHead](https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif)
 # 💫 About Me:
 Hi, I'm Pranav! <br><br>🤖 Tech enthusiast with a passion for exploration, always on the lookout for innovative solutions.<br><br>🎯 Interests: Technology, Sports, Music, Arts, and Filming.<br><br>📈 Knowledge in RStudio, Python Python (NumPy, Pandas, Tensorflow, PySpark, Plotly), Tableau, SQL, C/C++, Microsoft Office, Java, Power BI.<br><br>🌐 Collaborator and team player, eager to contribute to exciting projects.<br><br>📚 Constantly learning and seeking knowledge in various domains.<br><br>🎥 Storyteller at heart, with a flair for visual expression.<br><br>👥 Let's connect and create something amazing together!
 
