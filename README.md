@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 # 💫 About Me:
 Hi, I'm Pranav! <br><br>🤖 Tech enthusiast with a passion for exploration, always on the lookout for innovative solutions.<br><br>🎯 Interests: Technology, Sports, Music, Arts, and Filming.<br><br>📈 Knowledge in RStudio, Python Python (NumPy, Pandas, Tensorflow, PySpark, Plotly), Tableau, SQL, C/C++, Microsoft Office, Java, Power BI.<br><br>🌐 Collaborator and team player, eager to contribute to exciting projects.<br><br>📚 Constantly learning and seeking knowledge in various domains.<br><br>🎥 Storyteller at heart, with a flair for visual expression.<br><br>👥 Let's connect and create something amazing together!
 
@@ -10,10 +11,7 @@ Hi, I'm Pranav! <br><br>🤖 Tech enthusiast with a passion for exploration, alw
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PranavBarathwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBarathwaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBarathwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PranavBarathwaj&icon=0&color=0)](https://visitcount.itsvg.in)
